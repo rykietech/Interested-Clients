@@ -1,6 +1,5 @@
 //@hishaamr
-//Student number--3652426
-//Assignment 1
+
 
 import java.io.File;  // Import the File class
 import java.io.IOException;  // Import the IOException class to handle errors
