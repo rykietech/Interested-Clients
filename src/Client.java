@@ -1,6 +1,4 @@
 //@hishaamr
-//Student number--3652426
-//Assignment 1
 public class Client{
 
 	//preliminary list contains name,surname,age,gender,occupation,email address.
